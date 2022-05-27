@@ -51,10 +51,15 @@ movies_similarity.pkl -https://drive.google.com/file/d/1yfor1xBGf_i8mEg2u0ZEWsdx
 ## Resoucres
 
 1.https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 2.https://docs.streamlit.io/
+
 3.https://docs.python.org/3/library/pickle.html
+
 4.https://docs.python.org/3/
+
 5.https://numpy.org/doc/
+
 6.https://pandas.pydata.org/docs/
 
 
