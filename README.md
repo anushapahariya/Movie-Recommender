@@ -47,7 +47,7 @@ It uses attributes such as genre, director, description, actors, etc. for movies
 
 5.Pickle: Used for serializing and de-serializing python object structures.
 
-## Instalation
+## Installation
 
 - Clone this repo
 - Pretrained [data-set](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) 
