@@ -53,7 +53,7 @@ It uses attributes such as genre, director, description, actors, etc. for movies
 - Pretrained [data-set](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) 
 - Use [Jupyter Notebook](https://jupyter.org/) to train the model.
 
-## Resoucres
+## Resources
 
 1.https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
