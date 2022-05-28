@@ -61,7 +61,7 @@ movies_similarity.pkl -https://drive.google.com/file/d/1yfor1xBGf_i8mEg2u0ZEWsdx
 
 6.https://pandas.pydata.org/docs/
 
-##UI IMAGE:
+## UI IMAGE:
 
 ![Screenshot (929)](https://user-images.githubusercontent.com/86736177/170811742-9f0ca811-5dfa-4509-a1c7-9fb415ca65dd.png)
 
