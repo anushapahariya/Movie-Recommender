@@ -29,11 +29,11 @@ It uses attributes such as genre, director, description, actors, etc. for movies
 
 ## Pickle Files being used in the project
 
-movies_dict.pkl- https://drive.google.com/file/d/1qO_1VLe68AJ2bgyGotGn0ozysdZyyFwR/view?usp=sharing
+[movies_dict.pkl](https://drive.google.com/file/d/1qO_1VLe68AJ2bgyGotGn0ozysdZyyFwR/view?usp=sharin)
 
-movies_list.pkl - https://drive.google.com/file/d/1n4CLIUFpo-z-PkeZrJiiI2lPX8ATWhzc/view?usp=sharing
+[movies_list.pkl](https://drive.google.com/file/d/1n4CLIUFpo-z-PkeZrJiiI2lPX8ATWhzc/view?usp=sharing)
 
-movies_similarity.pkl -https://drive.google.com/file/d/1yfor1xBGf_i8mEg2u0ZEWsdx7RIA6I1X/view?usp=sharing
+[movies_similarity.pkl](https://drive.google.com/file/d/1yfor1xBGf_i8mEg2u0ZEWsdx7RIA6I1X/view?usp=sharing)
 
 ## Following libraries were being used in the project:
 
