@@ -12,12 +12,11 @@ There are basically two approaches to make recommendations:
 
 ->Content-based filtering
 
- Conent Based Movie Recommendation System:
+ Content Based Movie Recommendation System:
 
 It uses attributes such as genre, director, description, actors, etc. for movies, to make suggestions for the users. The intuition behind this sort of recommendation system is that if a user liked a particular movie or show, he/she might like a movie or a show similar to it.
  
 
-[Movie Recommender](https://drive.google.com/file/d/1tNn7DmK0EpY05C7RHrL_F8a877nQ7I5D/view?usp=sharing)
 
 ## Roadmap
 1. Data
@@ -61,6 +60,10 @@ movies_similarity.pkl -https://drive.google.com/file/d/1yfor1xBGf_i8mEg2u0ZEWsdx
 5.https://numpy.org/doc/
 
 6.https://pandas.pydata.org/docs/
+
+##UI IMAGE:
+
+![Screenshot (929)](https://user-images.githubusercontent.com/86736177/170811742-9f0ca811-5dfa-4509-a1c7-9fb415ca65dd.png)
 
 
 
